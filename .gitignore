@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Downloaded Dataset
+LibriSpeech/
+test-clean.tar.gz
+
+# OS Files
+.DS_Store
+Thumbs.db

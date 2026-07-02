@@ -1,0 +1,8 @@
+{
+    "model": "facebook/wav2vec2-base-960h",
+    "dataset": "LibriSpeech Test-Clean",
+    "processed_samples": 50,
+    "average_latency_seconds": 0.4865,
+    "word_error_rate": 0.143,
+    "character_error_rate": 0.0342
+}

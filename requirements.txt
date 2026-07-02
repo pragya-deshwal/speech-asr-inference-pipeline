@@ -1,0 +1,14 @@
+torch
+torchaudio
+transformers
+datasets
+evaluate
+huggingface-hub
+accelerate
+jiwer
+pandas
+numpy
+soundfile
+librosa
+tqdm
+sentencepiece
