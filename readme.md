@@ -103,6 +103,10 @@ python run.py
 
 ---
 
+## Sample Execution
+
+![Pipeline Output](assets/pipeline_output.png)
+
 ## Output Files
 
 Running the project automatically generates:
