@@ -105,7 +105,7 @@ python run.py
 
 ## Sample Execution
 
-![Pipeline Output](assets/pipeline_output.png)
+![Pipeline Output](pipeline_output.png)
 
 ## Output Files
 
